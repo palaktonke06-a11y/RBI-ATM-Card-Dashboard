@@ -1,37 +1,164 @@
-📊 Project Name: RBI ATM Card Statistics Dashboard
+# 🏦 RBI ATM Card Statistics Dashboard
 
-📝 Project Overview
-This Power BI dashboard provides a comprehensive analysis of India's digital banking and ATM infrastructure. It tracks credit cards, debit cards, UPI QR codes, ATM availability, and transaction volumes across banks. The dashboard helps understand the growth of digital payments, card usage trends, and banking service accessibility.
+---
 
-🚀 Key Features & Insights
-- Monitored total Credit Cards, Debit Cards, UPI QR Codes, ATMs On-Site, and Bharat QR Codes using KPI Cards.
-- Compared bank-wise card transaction values through Clustered Column Charts.
-- Analyzed UPI QR code adoption and reporting trends.
-- Visualized monthly payment activity using Pie Charts.
-- Evaluated Bharat QR Code performance with Gauge Charts.
-- Tracked ATM On-Site and Off-Site growth using Trend Analysis Charts.
+## 📝 Project Overview
 
-📊 Dashboard Visualizations
-Main Banking Statistics Dashboard
+The RBI ATM Card Statistics Dashboard was developed to provide a comprehensive analysis of India's banking infrastructure and digital payment ecosystem. The dashboard tracks the growth of credit cards, debit cards, UPI QR codes, Bharat QR codes, ATM networks, and transaction volumes across multiple banking institutions.
 
-- KPI Cards: Credit Cards, Debit Cards, UPI QR Codes, ATMs, Bharat QR Codes
-- Clustered Column Chart: Bank-wise ATM and Online Credit Card Transaction Values
-- Pie Chart: Transaction distribution by reporting month
-- Gauge Chart: Bharat QR Code performance
-- Area Chart: UPI QR Codes and reporting month analysis
-- Line Chart: ATM Off-Site vs On-Site trend analysis
-- Summary Table: Monthly ATM statistics
+By transforming complex banking datasets into interactive visualizations, this dashboard enables stakeholders to monitor digital payment adoption, evaluate ATM accessibility, analyze transaction trends, and understand the evolution of India's cashless economy.
 
-🛠️ Tech Stack Used
+---
+
+## 🚀 Key Features & Insights
+
+### 💳 Card Usage & Transaction Analysis
+- Monitor total Credit Cards and Debit Cards issued.
+- Analyze transaction volumes across banks.
+- Compare card usage trends and banking performance.
+
+### 📱 Digital Payment Adoption
+- Track UPI QR Code deployment and adoption.
+- Evaluate Bharat QR Code performance.
+- Measure the growth of digital payment infrastructure.
+
+### 🏧 ATM Infrastructure Monitoring
+- Analyze ATM On-Site and Off-Site availability.
+- Track ATM network expansion trends.
+- Evaluate banking service accessibility across regions.
+
+### 📈 Banking Performance Insights
+- Compare transaction values across banks.
+- Monitor monthly payment activity.
+- Analyze growth trends within the banking ecosystem.
+
+---
+
+# 📊 Main Banking Statistics Dashboard
+
+### Visuals Included
+
+#### 🔹 KPI Cards
+Displays key banking metrics:
+- Total Credit Cards
+- Total Debit Cards
+- Total UPI QR Codes
+- Total ATM On-Site
+- Total Bharat QR Codes
+
+#### 🔹 Bank-Wise Transaction Analysis
+Clustered column chart comparing:
+- ATM Transaction Values
+- Online Credit Card Transaction Values
+- Bank-wise performance metrics
+
+#### 🔹 Monthly Transaction Distribution
+Pie chart showing:
+- Transaction activity by reporting month
+- Payment distribution trends
+- Monthly contribution analysis
+
+#### 🔹 Bharat QR Code Performance
+Gauge chart displaying:
+- Bharat QR Code adoption
+- Digital payment performance benchmarks
+
+#### 🔹 UPI QR Code Growth Analysis
+Area chart visualizing:
+- UPI QR deployment trends
+- Monthly reporting patterns
+- Digital payment expansion
+
+#### 🔹 ATM Trend Analysis
+Line chart comparing:
+- ATM On-Site Growth
+- ATM Off-Site Growth
+- Infrastructure expansion trends
+
+#### 🔹 Monthly ATM Statistics Table
+Detailed summary table containing:
+- ATM Metrics
+- Monthly Records
+- Banking Performance Indicators
+
+### 📷 Dashboard Screenshot
+
+![RBI ATM Dashboard](Screenshot%202026-06-14%20131414.png)
+
+---
+
+## 🛠️ Tech Stack
+
 - Power BI Desktop
 - Power Query
-- DAX Measures
+- DAX (Data Analysis Expressions)
 - RBI Banking & Digital Payment Dataset
+- Data Modeling & Relationships
 
-🎯 Business Impact
-The dashboard provides insights into digital payment adoption, ATM infrastructure growth, and card transaction trends. It helps stakeholders monitor banking performance, evaluate digital payment penetration, and support strategic decisions in the financial sector.
+### Key DAX Metrics
 
-📷 Dashboard Screenshot
+- Total Credit Cards
+- Total Debit Cards
+- Total UPI QR Codes
+- Total Bharat QR Codes
+- ATM On-Site Count
+- ATM Off-Site Count
+- Transaction Value Analysis
+- Monthly Banking Performance Metrics
 
-"RBI ATM Card Statistics Dashboard" 
-<img src="Screenshot 2026-06-14 131414.png" width="100%">
+---
+
+## 📂 Dataset
+
+The dataset contains RBI banking and digital payment statistics including:
+
+- Credit Card Data
+- Debit Card Data
+- UPI QR Code Records
+- Bharat QR Code Statistics
+- ATM On-Site Data
+- ATM Off-Site Data
+- Banking Transaction Values
+- Monthly Reporting Metrics
+
+---
+
+## 📈 Skills Demonstrated
+
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Calculations
+- Banking Analytics
+- Digital Payment Analysis
+- Financial Reporting
+- KPI Development
+- Interactive Dashboard Design
+- Business Intelligence Reporting
+
+---
+
+## 🎯 Business Value
+
+✅ Monitor digital payment adoption trends
+
+✅ Analyze credit and debit card usage patterns
+
+✅ Evaluate UPI and Bharat QR code growth
+
+✅ Track ATM infrastructure expansion
+
+✅ Compare banking transaction performance
+
+✅ Support data-driven decisions in the financial sector
+
+---
+
+## 🔗 Project Link
+
+### GitHub Repository
+
+👉 Add Your GitHub Repository Link Here
+
+---
+
+⭐ If you found this project useful, don't forget to star the repository.
